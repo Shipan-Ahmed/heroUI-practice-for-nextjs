@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Build Next.js Blog UI",
+        "description": "Create homepage and blog list page",
+        "status": "pending",
+        "priority": "high",
+        "category": "frontend",
+        "dueDate": "2026-04-25"
+    },
+    {
+        "id": 2,
+        "title": "Setup JSON Server API",
+        "description": "Create db.json and run local API",
+        "status": "completed",
+        "priority": "medium",
+        "category": "backend",
+        "dueDate": "2026-04-20"
+    },
+    {
+        "id": 3,
+        "title": "Implement Data Fetching",
+        "description": "Fetch data using Next.js server components",
+        "status": "in-progress",
+        "priority": "high",
+        "category": "frontend",
+        "dueDate": "2026-04-27"
+    },
+    {
+        "id": 4,
+        "title": "Add Search Feature",
+        "description": "Search tasks by title",
+        "status": "pending",
+        "priority": "low",
+        "category": "feature",
+        "dueDate": "2026-04-30"
+    },
+    {
+        "id": 5,
+        "title": "Deploy Project",
+        "description": "Deploy project to Vercel",
+        "status": "pending",
+        "priority": "high",
+        "category": "deployment",
+        "dueDate": "2026-05-02"
+    }
+]
